@@ -1,0 +1,131 @@
+['MBD4_GRCh37_3:129155548-129155557_Frame-Shift-Del-DEL-TTTTTTTTTT----', 'PRDM2_GRCh37_1:14108749-14108757_In-Frame-Del-DEL-AAAAAAAAA----', 'RAD50_GRCh37_5:131931452-131931460_In-Frame-Del-DEL-AAAAAAAAA----', 'BRAF_GRCh37_7:140453136-140453136_Missense-Mutation-SNP-A-A-T_Missense-Mutation-SNP-A-T-T', 'MSH3_GRCh37_5:79970915-79970922_Frame-Shift-Del-DEL-AAAAAAAA----', 'KRAS_GRCh37_12:25398284-25398284_Missense-Mutation-SNP-C-T-T']
+-----------------------------------
+[0]False Positives: 3
+[0]False Negatives: 0
+[0]True Positives: 2
+[0]True Negatives: 18
+[0]Proportion of false positives: 0.130434782609
+[0]Proportion of false negatives:0.0
+[0]Accuracy: 0.869565217391
+[0]Error rate: 0.130434782609
+[0]Sensitivity: 1.0
+[0]Specificity: 0.857142857143
+-----------------------------------
+['MBD4_GRCh37_3:129155548-129155557_Frame-Shift-Del-DEL-TTTTTTTTTT----', 'PRDM2_GRCh37_1:14108749-14108757_In-Frame-Del-DEL-AAAAAAAAA----', 'RAD50_GRCh37_5:131931452-131931460_In-Frame-Del-DEL-AAAAAAAAA----', 'BRAF_GRCh37_7:140453136-140453136_Missense-Mutation-SNP-A-A-T_Missense-Mutation-SNP-A-T-T', 'MSH3_GRCh37_5:79970915-79970922_Frame-Shift-Del-DEL-AAAAAAAA----', 'KRAS_GRCh37_12:25398284-25398284_Missense-Mutation-SNP-C-T-T']
+-----------------------------------
+[0]False Positives: 3
+[0]False Negatives: 0
+[0]True Positives: 2
+[0]True Negatives: 18
+[0]Proportion of false positives: 0.130434782609
+[0]Proportion of false negatives:0.0
+[0]Accuracy: 0.869565217391
+[0]Error rate: 0.130434782609
+[0]Sensitivity: 1.0
+[0]Specificity: 0.857142857143
+-----------------------------------
+['GRB14_GRCh37_2:165365288-165365296_In-Frame-Del-DEL-TTTTTTTTT----', 'RAD50_GRCh37_5:131931452-131931460_In-Frame-Del-DEL-AAAAAAAAA----', 'BRAF_GRCh37_7:140453136-140453136_Missense-Mutation-SNP-A-A-T_Missense-Mutation-SNP-A-T-T', 'MSH3_GRCh37_5:79970915-79970922_Frame-Shift-Del-DEL-AAAAAAAA----', 'KRAS_GRCh37_12:25398284-25398284_Missense-Mutation-SNP-C-T-T']
+-----------------------------------
+[0]False Positives: 0
+[0]False Negatives: 3
+[0]True Positives: 4
+[0]True Negatives: 16
+[0]Proportion of false positives: 0.0
+[0]Proportion of false negatives:0.130434782609
+[0]Accuracy: 0.869565217391
+[0]Error rate: 0.130434782609
+[0]Sensitivity: 0.571428571429
+[0]Specificity: 1.0
+-----------------------------------
+['MBD4_GRCh37_3:129155548-129155557_Frame-Shift-Del-DEL-TTTTTTTTTT----', 'PRDM2_GRCh37_1:14108749-14108757_In-Frame-Del-DEL-AAAAAAAAA----', 'RAD50_GRCh37_5:131931452-131931460_In-Frame-Del-DEL-AAAAAAAAA----', 'BRAF_GRCh37_7:140453136-140453136_Missense-Mutation-SNP-A-A-T_Missense-Mutation-SNP-A-T-T', 'MSH3_GRCh37_5:79970915-79970922_Frame-Shift-Del-DEL-AAAAAAAA----', 'KRAS_GRCh37_12:25398284-25398284_Missense-Mutation-SNP-C-T-T']
+-----------------------------------
+[0]False Positives: 3
+[0]False Negatives: 0
+[0]True Positives: 3
+[0]True Negatives: 17
+[0]Proportion of false positives: 0.130434782609
+[0]Proportion of false negatives:0.0
+[0]Accuracy: 0.869565217391
+[0]Error rate: 0.130434782609
+[0]Sensitivity: 1.0
+[0]Specificity: 0.85
+-----------------------------------
+['MBD4_GRCh37_3:129155548-129155557_Frame-Shift-Del-DEL-TTTTTTTTTT----', 'PRDM2_GRCh37_1:14108749-14108757_In-Frame-Del-DEL-AAAAAAAAA----', 'MSH3_GRCh37_5:79970915-79970922_Frame-Shift-Del-DEL-AAAAAAAA----', 'BRAF_GRCh37_7:140453136-140453136_Missense-Mutation-SNP-A-A-T_Missense-Mutation-SNP-A-T-T', 'KRAS_GRCh37_12:25398284-25398284_Missense-Mutation-SNP-C-T-T']
+-----------------------------------
+[0]False Positives: 1
+[0]False Negatives: 1
+[0]True Positives: 1
+[0]True Negatives: 19
+[0]Proportion of false positives: 0.0454545454545
+[0]Proportion of false negatives:0.0454545454545
+[0]Accuracy: 0.909090909091
+[0]Error rate: 0.0909090909091
+[0]Sensitivity: 0.5
+[0]Specificity: 0.95
+-----------------------------------
+['MBD4_GRCh37_3:129155548-129155557_Frame-Shift-Del-DEL-TTTTTTTTTT----', 'PRDM2_GRCh37_1:14108749-14108757_In-Frame-Del-DEL-AAAAAAAAA----', 'RAD50_GRCh37_5:131931452-131931460_In-Frame-Del-DEL-AAAAAAAAA----', 'BRAF_GRCh37_7:140453136-140453136_Missense-Mutation-SNP-A-A-T_Missense-Mutation-SNP-A-T-T', 'MSH3_GRCh37_5:79970915-79970922_Frame-Shift-Del-DEL-AAAAAAAA----', 'KRAS_GRCh37_12:25398284-25398284_Missense-Mutation-SNP-C-T-T']
+-----------------------------------
+[0]False Positives: 1
+[0]False Negatives: 0
+[0]True Positives: 3
+[0]True Negatives: 18
+[0]Proportion of false positives: 0.0454545454545
+[0]Proportion of false negatives:0.0
+[0]Accuracy: 0.954545454545
+[0]Error rate: 0.0454545454545
+[0]Sensitivity: 1.0
+[0]Specificity: 0.947368421053
+-----------------------------------
+['MBD4_GRCh37_3:129155548-129155557_Frame-Shift-Del-DEL-TTTTTTTTTT----', 'PRDM2_GRCh37_1:14108749-14108757_In-Frame-Del-DEL-AAAAAAAAA----', 'RAD50_GRCh37_5:131931452-131931460_In-Frame-Del-DEL-AAAAAAAAA----', 'BRAF_GRCh37_7:140453136-140453136_Missense-Mutation-SNP-A-A-T_Missense-Mutation-SNP-A-T-T', 'MSH3_GRCh37_5:79970915-79970922_Frame-Shift-Del-DEL-AAAAAAAA----', 'KRAS_GRCh37_12:25398284-25398284_Missense-Mutation-SNP-C-T-T']
+-----------------------------------
+[0]False Positives: 1
+[0]False Negatives: 0
+[0]True Positives: 2
+[0]True Negatives: 19
+[0]Proportion of false positives: 0.0454545454545
+[0]Proportion of false negatives:0.0
+[0]Accuracy: 0.954545454545
+[0]Error rate: 0.0454545454545
+[0]Sensitivity: 1.0
+[0]Specificity: 0.95
+-----------------------------------
+['MBD4_GRCh37_3:129155548-129155557_Frame-Shift-Del-DEL-TTTTTTTTTT----', 'PRDM2_GRCh37_1:14108749-14108757_In-Frame-Del-DEL-AAAAAAAAA----', 'HMMR_GRCh37_5:162917426-162917434_In-Frame-Del-DEL-AAAAAAAAA----', 'RAD50_GRCh37_5:131931452-131931460_In-Frame-Del-DEL-AAAAAAAAA----', 'BRAF_GRCh37_7:140453136-140453136_Missense-Mutation-SNP-A-A-T_Missense-Mutation-SNP-A-T-T', 'KRAS_GRCh37_12:25398284-25398284_Missense-Mutation-SNP-C-T-T']
+-----------------------------------
+[0]False Positives: 4
+[0]False Negatives: 1
+[0]True Positives: 3
+[0]True Negatives: 14
+[0]Proportion of false positives: 0.181818181818
+[0]Proportion of false negatives:0.0454545454545
+[0]Accuracy: 0.772727272727
+[0]Error rate: 0.227272727273
+[0]Sensitivity: 0.75
+[0]Specificity: 0.777777777778
+-----------------------------------
+['MBD4_GRCh37_3:129155548-129155557_Frame-Shift-Del-DEL-TTTTTTTTTT----', 'PRDM2_GRCh37_1:14108749-14108757_In-Frame-Del-DEL-AAAAAAAAA----', 'RAD50_GRCh37_5:131931452-131931460_In-Frame-Del-DEL-AAAAAAAAA----', 'MSH3_GRCh37_5:79970915-79970922_Frame-Shift-Del-DEL-AAAAAAAA----', 'BRAF_GRCh37_7:140453136-140453136_Missense-Mutation-SNP-A-A-T_Missense-Mutation-SNP-A-T-T', 'KRAS_GRCh37_12:25398284-25398284_Missense-Mutation-SNP-C-T-T']
+-----------------------------------
+[0]False Positives: 0
+[0]False Negatives: 2
+[0]True Positives: 3
+[0]True Negatives: 17
+[0]Proportion of false positives: 0.0
+[0]Proportion of false negatives:0.0909090909091
+[0]Accuracy: 0.909090909091
+[0]Error rate: 0.0909090909091
+[0]Sensitivity: 0.6
+[0]Specificity: 1.0
+-----------------------------------
+['MBD4_GRCh37_3:129155548-129155557_Frame-Shift-Del-DEL-TTTTTTTTTT----', 'PRDM2_GRCh37_1:14108749-14108757_In-Frame-Del-DEL-AAAAAAAAA----', 'RAD50_GRCh37_5:131931452-131931460_In-Frame-Del-DEL-AAAAAAAAA----', 'BRAF_GRCh37_7:140453136-140453136_Missense-Mutation-SNP-A-A-T_Missense-Mutation-SNP-A-T-T', 'MSH3_GRCh37_5:79970915-79970922_Frame-Shift-Del-DEL-AAAAAAAA----', 'KRAS_GRCh37_12:25398284-25398284_Missense-Mutation-SNP-C-T-T']
+-----------------------------------
+[0]False Positives: 3
+[0]False Negatives: 1
+[0]True Positives: 1
+[0]True Negatives: 17
+[0]Proportion of false positives: 0.136363636364
+[0]Proportion of false negatives:0.0454545454545
+[0]Accuracy: 0.818181818182
+[0]Error rate: 0.181818181818
+[0]Sensitivity: 0.5
+[0]Specificity: 0.85
+-----------------------------------
+

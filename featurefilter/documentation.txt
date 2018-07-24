@@ -1,0 +1,31 @@
+feature filtering is a must, because there are nearly 70,000 features
+
+the method of doing this is by calculating the top accuracy as well as top information gain and finding the union of these two sets
+
+this union is the final filtered set, and to be used with analysis
+
+
+
+
+union of info gain (1%) and accuracy (1%):
+
+-----------------------------------------------
+
+accuracy1 features: 889
+
+infogain1 features: 889
+
+union features: 1339
+
+
+
+
+union of info gain (.5%) and accuracy (.5%):
+
+-----------------------------------------------
+
+accuracy1 features: 445
+
+infogain1 features: 445
+
+union features: 888

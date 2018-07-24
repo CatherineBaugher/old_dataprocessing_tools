@@ -1,0 +1,8 @@
+#!/bin/bash
+#PBS -N "info05"
+#PBS -l walltime=20:00:00
+#PBS -l nodes=1:ppn=8
+#PBS -j oe
+#PBS -l mem=16GB
+
+python3 /fs/project/PHS0293/cancerproj/cimp-noncimp/randomforest/evalRandforst_10.py "filtered_infogain05" > /fs/project/PHS0293/cancerproj/cimp-noncimp/randomforest/results/info05_10f_1000t.txt

@@ -1,0 +1,8 @@
+#!/bin/bash
+#PBS -N "union1"
+#PBS -l walltime=20:00:00
+#PBS -l nodes=1:ppn=8
+#PBS -j oe
+#PBS -l mem=4GB
+
+python3 /fs/project/PHS0293/cancerproj/cimp-noncimp/randomforest/evalRandforst.py "/fs/project/PHS0293/cancerproj/cimp-noncimp/featurefilter/union_acc1inf1.csv" > /fs/project/PHS0293/cancerproj/cimp-noncimp/randomforest/unionacc1inf1_results.txt

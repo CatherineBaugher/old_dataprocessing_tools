@@ -1,0 +1,19 @@
+The program makedat.py can be used to combine the files data_clinical.csv and data_mutations_extended.csv.
+
+The top row consists of feature labels, which are info about each mutation. This information includes:
+-NCBI_Build
+-Chromosome#
+-Start_position
+-End_position
+-Hugo_Symbol
+-Variant_class
+-Variant_type
+-reference_allele
+-Tumor_seq_allele_1
+-Tumor_seq_allele_2
+
+before adding a feature, the mutation is also checked to make sure it is somatic (?)
+ 
+
+num features:
+88775

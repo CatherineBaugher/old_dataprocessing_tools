@@ -1,0 +1,13 @@
+Pan-Can stats
+---------------
+Number of cancer samples: 440
+* CIMP+: 128
+* CIMPi: 160
+* CIMP-: 152
+* features: 236237
+Number of control samples: 60
+* features: 36420
+
+Discarded samples: 2319
+Discarded features: 13531
+

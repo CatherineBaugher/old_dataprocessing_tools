@@ -1,0 +1,145 @@
+[1]False Positives: 1
+[1]False Negatives: 1
+[1]True Positives: 3
+[1]True Negatives: 14
+[1]Proportion of false positives: 0.05263157894736842
+[1]Proportion of false negatives:0.05263157894736842
+[1]Accuracy: 0.8947368421052632
+[1]Error rate: 0.10526315789473684
+[1]Sensitivity: 0.75
+[1]Specificity: 0.9333333333333333
+
+
+
+
+
+[2]False Positives: 0
+[2]False Negatives: 0
+[2]True Positives: 3
+[2]True Negatives: 14
+[2]Proportion of false positives: 0.0
+[2]Proportion of false negatives:0.0
+[2]Accuracy: 1.0
+[2]Error rate: 0.0
+[2]Sensitivity: 1.0
+[2]Specificity: 1.0
+
+
+
+
+
+[3]False Positives: 1
+[3]False Negatives: 2
+[3]True Positives: 1
+[3]True Negatives: 13
+[3]Proportion of false positives: 0.058823529411764705
+[3]Proportion of false negatives:0.11764705882352941
+[3]Accuracy: 0.8235294117647058
+[3]Error rate: 0.17647058823529413
+[3]Sensitivity: 0.3333333333333333
+[3]Specificity: 0.9285714285714286
+
+
+
+
+
+[4]False Positives: 3
+[4]False Negatives: 1
+[4]True Positives: 2
+[4]True Negatives: 11
+[4]Proportion of false positives: 0.17647058823529413
+[4]Proportion of false negatives:0.058823529411764705
+[4]Accuracy: 0.7647058823529411
+[4]Error rate: 0.23529411764705882
+[4]Sensitivity: 0.6666666666666666
+[4]Specificity: 0.7857142857142857
+
+
+
+
+
+[5]False Positives: 0
+[5]False Negatives: 3
+[5]True Positives: 1
+[5]True Negatives: 15
+[5]Proportion of false positives: 0.0
+[5]Proportion of false negatives:0.15789473684210525
+[5]Accuracy: 0.8421052631578947
+[5]Error rate: 0.15789473684210525
+[5]Sensitivity: 0.25
+[5]Specificity: 1.0
+
+
+
+
+
+[6]False Positives: 0
+[6]False Negatives: 2
+[6]True Positives: 2
+[6]True Negatives: 15
+[6]Proportion of false positives: 0.0
+[6]Proportion of false negatives:0.10526315789473684
+[6]Accuracy: 0.8947368421052632
+[6]Error rate: 0.10526315789473684
+[6]Sensitivity: 0.5
+[6]Specificity: 1.0
+
+
+
+
+
+[7]False Positives: 1
+[7]False Negatives: 2
+[7]True Positives: 1
+[7]True Negatives: 13
+[7]Proportion of false positives: 0.058823529411764705
+[7]Proportion of false negatives:0.11764705882352941
+[7]Accuracy: 0.8235294117647058
+[7]Error rate: 0.17647058823529413
+[7]Sensitivity: 0.3333333333333333
+[7]Specificity: 0.9285714285714286
+
+
+
+
+
+[8]False Positives: 1
+[8]False Negatives: 0
+[8]True Positives: 3
+[8]True Negatives: 13
+[8]Proportion of false positives: 0.058823529411764705
+[8]Proportion of false negatives:0.0
+[8]Accuracy: 0.9411764705882353
+[8]Error rate: 0.058823529411764705
+[8]Sensitivity: 1.0
+[8]Specificity: 0.9285714285714286
+
+
+
+
+
+[9]False Positives: 1
+[9]False Negatives: 3
+[9]True Positives: 0
+[9]True Negatives: 13
+[9]Proportion of false positives: 0.058823529411764705
+[9]Proportion of false negatives:0.17647058823529413
+[9]Accuracy: 0.7647058823529411
+[9]Error rate: 0.23529411764705882
+[9]Sensitivity: 0.0
+[9]Specificity: 0.9285714285714286
+
+
+
+
+
+[10]False Positives: 1
+[10]False Negatives: 3
+[10]True Positives: 0
+[10]True Negatives: 13
+[10]Proportion of false positives: 0.058823529411764705
+[10]Proportion of false negatives:0.17647058823529413
+[10]Accuracy: 0.7647058823529411
+[10]Error rate: 0.23529411764705882
+[10]Sensitivity: 0.0
+[10]Specificity: 0.9285714285714286

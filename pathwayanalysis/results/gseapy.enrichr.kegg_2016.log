@@ -1,0 +1,17 @@
+LINE 73  : 2018-06-25 01:36:57,128 [INFO    ] Connecting to Enrichr Server to get latest library names
+LINE 83  : 2018-06-25 01:36:57,129 [INFO    ] Analysis name: enrichr, Enrichr Library: KEGG_2016
+LINE 207 : 2018-06-25 01:36:57,147 [DEBUG   ] Starting new HTTP connection (1): amp.pharm.mssm.edu
+LINE 395 : 2018-06-25 01:36:57,379 [DEBUG   ] http://amp.pharm.mssm.edu:80 "POST /Enrichr/addList HTTP/1.1" 200 46
+LINE 99  : 2018-06-25 01:36:57,384 [DEBUG   ] Job ID:{'shortId': '43coy', 'userListId': 7729942}
+LINE 207 : 2018-06-25 01:36:57,389 [DEBUG   ] Starting new HTTP connection (1): amp.pharm.mssm.edu
+LINE 395 : 2018-06-25 01:36:57,559 [DEBUG   ] http://amp.pharm.mssm.edu:80 "GET /Enrichr/view?userListId=7729942 HTTP/1.1" 200 172
+LINE 108 : 2018-06-25 01:36:58,567 [INFO    ] Submitted gene list:{'shortId': '43coy', 'userListId': 7729942}
+LINE 207 : 2018-06-25 01:36:58,570 [DEBUG   ] Starting new HTTP connection (1): amp.pharm.mssm.edu
+LINE 395 : 2018-06-25 01:36:59,745 [DEBUG   ] http://amp.pharm.mssm.edu:80 "GET /Enrichr/enrich?userListId=7729942&backgroundType=KEGG_2016 HTTP/1.1" 200 None
+LINE 118 : 2018-06-25 01:36:59,791 [DEBUG   ] Get enrichment results: Job Id:{'shortId': '43coy', 'userListId': 7729942}
+LINE 207 : 2018-06-25 01:36:59,799 [DEBUG   ] Starting new HTTP connection (1): amp.pharm.mssm.edu
+LINE 395 : 2018-06-25 01:37:00,259 [DEBUG   ] http://amp.pharm.mssm.edu:80 "GET /Enrichr/export?userListId=7729942&filename=KEGG_2016.enrichr.enrichr.reports&backgroundType=KEGG_2016 HTTP/1.1" 200 None
+LINE 130 : 2018-06-25 01:37:00,262 [INFO    ] Downloading file of enrichment results: Job Id:{'shortId': '43coy', 'userListId': 7729942}
+LINE 138 : 2018-06-25 01:37:00,311 [DEBUG   ] Results written to: ./results/KEGG_2016.enrichr.enrichr.reports.txt
+LINE 152 : 2018-06-25 01:37:00,621 [INFO    ] Done.
+

@@ -1,0 +1,152 @@
+['MSH6_GRCh37_2:48030640-48030647_Frame-Shift-Del-DEL-CCCCCCCC----', 'HMMR_GRCh37_5:162917426-162917434_In-Frame-Del-DEL-AAAAAAAAA----', 'ACVR2A_GRCh37_2:148683686-148683693_Frame-Shift-Del-DEL-AAAAAAAA----', 'CASP5_GRCh37_11:104878041-104878050_Frame-Shift-Del-DEL-TTTTTTTTTT----', 'MSH3_GRCh37_5:79970915-79970922_Frame-Shift-Del-DEL-AAAAAAAA----']
+-----------------------------------
+False Positives: 0
+False Negatives: 1
+True Positives: 2
+True Negatives: 20
+CIMP-Low Occurrences: 0
+CIMP-Low Not Covered: 0
+Proportion of false positives: 0.0
+Proportion of false negatives:0.043478260869565216
+Accuracy: 0.9565217391304348
+Error rate: 0.043478260869565216
+Sensitivity: 0.6666666666666666
+Specificity: 1.0
+-----------------------------------
+['MSH6_GRCh37_2:48030640-48030647_Frame-Shift-Del-DEL-CCCCCCCC----', 'PRDM2_GRCh37_1:14108749-14108757_In-Frame-Del-DEL-AAAAAAAAA----', 'KRAS_GRCh37_12:25398284-25398284_Missense-Mutation-SNP-C-T-T', 'CASP5_GRCh37_11:104878041-104878050_Frame-Shift-Del-DEL-TTTTTTTTTT----', 'MSH3_GRCh37_5:79970915-79970922_Frame-Shift-Del-DEL-AAAAAAAA----', 'TGFBR2_GRCh37_3:30691872-30691881_Frame-Shift-Del-DEL-AAAAAAAAAA----']
+-----------------------------------
+False Positives: 2
+False Negatives: 2
+True Positives: 1
+True Negatives: 18
+CIMP-Low Occurrences: 0
+CIMP-Low Not Covered: 0
+Proportion of false positives: 0.08695652173913043
+Proportion of false negatives:0.08695652173913043
+Accuracy: 0.8260869565217391
+Error rate: 0.17391304347826086
+Sensitivity: 0.3333333333333333
+Specificity: 0.9
+-----------------------------------
+['BRAF_GRCh37_7:140453136-140453136_Missense-Mutation-SNP-A-A-T_Missense-Mutation-SNP-A-T-T', 'HMMR_GRCh37_5:162917426-162917434_In-Frame-Del-DEL-AAAAAAAAA----', 'RAD50_GRCh37_5:131931452-131931460_In-Frame-Del-DEL-AAAAAAAAA----', 'ACVR2A_GRCh37_2:148683686-148683693_Frame-Shift-Del-DEL-AAAAAAAA----', 'MSH3_GRCh37_5:79970915-79970922_Frame-Shift-Del-DEL-AAAAAAAA----', 'AIM2_GRCh37_1:159032487-159032496_Frame-Shift-Del-DEL-TTTTTTTTTT----']
+-----------------------------------
+False Positives: 0
+False Negatives: 0
+True Positives: 1
+True Negatives: 22
+CIMP-Low Occurrences: 0
+CIMP-Low Not Covered: 0
+Proportion of false positives: 0.0
+Proportion of false negatives:0.0
+Accuracy: 1.0
+Error rate: 0.0
+Sensitivity: 1.0
+Specificity: 1.0
+-----------------------------------
+['BRAF_GRCh37_7:140453136-140453136_Missense-Mutation-SNP-A-A-T_Missense-Mutation-SNP-A-T-T', 'GRB14_GRCh37_2:165365288-165365296_In-Frame-Del-DEL-TTTTTTTTT----', 'MBD4_GRCh37_3:129155548-129155557_Frame-Shift-Del-DEL-TTTTTTTTTT----', 'MSH6_GRCh37_2:48030640-48030647_Frame-Shift-Del-DEL-CCCCCCCC----', 'PRDM2_GRCh37_1:14108749-14108757_In-Frame-Del-DEL-AAAAAAAAA----', 'HMMR_GRCh37_5:162917426-162917434_In-Frame-Del-DEL-AAAAAAAAA----', 'SEC63_GRCh37_6:108214755-108214764_Frame-Shift-Del-DEL-TTTTTTTTTT----', 'KRAS_GRCh37_12:25398284-25398284_Missense-Mutation-SNP-C-T-T', 'PIK3CA_GRCh37_3:178952085-178952085_Missense-Mutation-SNP-A-G-G', 'ACVR2A_GRCh37_2:148683686-148683693_Frame-Shift-Del-DEL-AAAAAAAA----', 'ATR_GRCh37_3:142274740-142274749_Frame-Shift-Del-DEL-TTTTTTTTTT----', 'TGFBR2_GRCh37_3:30691872-30691881_Frame-Shift-Del-DEL-AAAAAAAAAA----', 'AIM2_GRCh37_1:159032487-159032496_Frame-Shift-Del-DEL-TTTTTTTTTT----']
+-----------------------------------
+False Positives: 3
+False Negatives: 1
+True Positives: 1
+True Negatives: 18
+CIMP-Low Occurrences: 0
+CIMP-Low Not Covered: 0
+Proportion of false positives: 0.13043478260869565
+Proportion of false negatives:0.043478260869565216
+Accuracy: 0.8260869565217391
+Error rate: 0.17391304347826086
+Sensitivity: 0.5
+Specificity: 0.8571428571428571
+-----------------------------------
+['BRAF_GRCh37_7:140453136-140453136_Missense-Mutation-SNP-A-A-T_Missense-Mutation-SNP-A-T-T', 'GRB14_GRCh37_2:165365288-165365296_In-Frame-Del-DEL-TTTTTTTTT----', 'MSH6_GRCh37_2:48030640-48030647_Frame-Shift-Del-DEL-CCCCCCCC----', 'PRDM2_GRCh37_1:14108749-14108757_In-Frame-Del-DEL-AAAAAAAAA----', 'HMMR_GRCh37_5:162917426-162917434_In-Frame-Del-DEL-AAAAAAAAA----', 'SEC63_GRCh37_6:108214755-108214764_Frame-Shift-Del-DEL-TTTTTTTTTT----', 'KRAS_GRCh37_12:25398284-25398284_Missense-Mutation-SNP-C-T-T', 'RAD50_GRCh37_5:131931452-131931460_In-Frame-Del-DEL-AAAAAAAAA----', 'CASP5_GRCh37_11:104878041-104878050_Frame-Shift-Del-DEL-TTTTTTTTTT----', 'MSH3_GRCh37_5:79970915-79970922_Frame-Shift-Del-DEL-AAAAAAAA----', 'ATR_GRCh37_3:142274740-142274749_Frame-Shift-Del-DEL-TTTTTTTTTT----', 'TGFBR2_GRCh37_3:30691872-30691881_Frame-Shift-Del-DEL-AAAAAAAAAA----', 'TCF7L2_GRCh37_10:114925317-114925325_In-Frame-Del-DEL-AAAAAAAAA----']
+-----------------------------------
+False Positives: 5
+False Negatives: 0
+True Positives: 3
+True Negatives: 14
+CIMP-Low Occurrences: 0
+CIMP-Low Not Covered: 0
+Proportion of false positives: 0.22727272727272727
+Proportion of false negatives:0.0
+Accuracy: 0.7727272727272727
+Error rate: 0.22727272727272727
+Sensitivity: 1.0
+Specificity: 0.7368421052631579
+-----------------------------------
+['BRAF_GRCh37_7:140453136-140453136_Missense-Mutation-SNP-A-A-T_Missense-Mutation-SNP-A-T-T', 'MBD4_GRCh37_3:129155548-129155557_Frame-Shift-Del-DEL-TTTTTTTTTT----', 'PRDM2_GRCh37_1:14108749-14108757_In-Frame-Del-DEL-AAAAAAAAA----', 'HMMR_GRCh37_5:162917426-162917434_In-Frame-Del-DEL-AAAAAAAAA----', 'SEC63_GRCh37_6:108214755-108214764_Frame-Shift-Del-DEL-TTTTTTTTTT----', 'KRAS_GRCh37_12:25398284-25398284_Missense-Mutation-SNP-C-T-T', 'CASP5_GRCh37_11:104878041-104878050_Frame-Shift-Del-DEL-TTTTTTTTTT----', 'MSH3_GRCh37_5:79970915-79970922_Frame-Shift-Del-DEL-AAAAAAAA----', 'ATR_GRCh37_3:142274740-142274749_Frame-Shift-Del-DEL-TTTTTTTTTT----', 'TGFBR2_GRCh37_3:30691872-30691881_Frame-Shift-Del-DEL-AAAAAAAAAA----', 'TCF7L2_GRCh37_10:114925317-114925325_In-Frame-Del-DEL-AAAAAAAAA----']
+-----------------------------------
+False Positives: 5
+False Negatives: 1
+True Positives: 6
+True Negatives: 10
+CIMP-Low Occurrences: 0
+CIMP-Low Not Covered: 0
+Proportion of false positives: 0.22727272727272727
+Proportion of false negatives:0.045454545454545456
+Accuracy: 0.7272727272727273
+Error rate: 0.2727272727272727
+Sensitivity: 0.8571428571428571
+Specificity: 0.6666666666666666
+-----------------------------------
+['BRAF_GRCh37_7:140453136-140453136_Missense-Mutation-SNP-A-A-T_Missense-Mutation-SNP-A-T-T', 'HMMR_GRCh37_5:162917426-162917434_In-Frame-Del-DEL-AAAAAAAAA----', 'SEC63_GRCh37_6:108214755-108214764_Frame-Shift-Del-DEL-TTTTTTTTTT----', 'KRAS_GRCh37_12:25398284-25398284_Missense-Mutation-SNP-C-T-T', 'RAD50_GRCh37_5:131931452-131931460_In-Frame-Del-DEL-AAAAAAAAA----', 'ACVR2A_GRCh37_2:148683686-148683693_Frame-Shift-Del-DEL-AAAAAAAA----', 'CASP5_GRCh37_11:104878041-104878050_Frame-Shift-Del-DEL-TTTTTTTTTT----', 'ATR_GRCh37_3:142274740-142274749_Frame-Shift-Del-DEL-TTTTTTTTTT----', 'AIM2_GRCh37_1:159032487-159032496_Frame-Shift-Del-DEL-TTTTTTTTTT----']
+-----------------------------------
+False Positives: 1
+False Negatives: 3
+True Positives: 1
+True Negatives: 17
+CIMP-Low Occurrences: 0
+CIMP-Low Not Covered: 0
+Proportion of false positives: 0.045454545454545456
+Proportion of false negatives:0.13636363636363635
+Accuracy: 0.8181818181818181
+Error rate: 0.18181818181818182
+Sensitivity: 0.25
+Specificity: 0.9444444444444444
+-----------------------------------
+['BRAF_GRCh37_7:140453136-140453136_Missense-Mutation-SNP-A-A-T_Missense-Mutation-SNP-A-T-T', 'MBD4_GRCh37_3:129155548-129155557_Frame-Shift-Del-DEL-TTTTTTTTTT----', 'SEC63_GRCh37_6:108214755-108214764_Frame-Shift-Del-DEL-TTTTTTTTTT----', 'KRAS_GRCh37_12:25398284-25398284_Missense-Mutation-SNP-C-T-T', 'PIK3CA_GRCh37_3:178952085-178952085_Missense-Mutation-SNP-A-G-G', 'RAD50_GRCh37_5:131931452-131931460_In-Frame-Del-DEL-AAAAAAAAA----', 'ACVR2A_GRCh37_2:148683686-148683693_Frame-Shift-Del-DEL-AAAAAAAA----', 'ATR_GRCh37_3:142274740-142274749_Frame-Shift-Del-DEL-TTTTTTTTTT----', 'TGFBR2_GRCh37_3:30691872-30691881_Frame-Shift-Del-DEL-AAAAAAAAAA----', 'TCF7L2_GRCh37_10:114925317-114925325_In-Frame-Del-DEL-AAAAAAAAA----']
+-----------------------------------
+False Positives: 0
+False Negatives: 0
+True Positives: 4
+True Negatives: 18
+CIMP-Low Occurrences: 0
+CIMP-Low Not Covered: 0
+Proportion of false positives: 0.0
+Proportion of false negatives:0.0
+Accuracy: 1.0
+Error rate: 0.0
+Sensitivity: 1.0
+Specificity: 1.0
+-----------------------------------
+
+['BRAF_GRCh37_7:140453136-140453136_Missense-Mutation-SNP-A-A-T_Missense-Mutation-SNP-A-T-T', 'GRB14_GRCh37_2:165365288-165365296_In-Frame-Del-DEL-TTTTTTTTT----', 'MBD4_GRCh37_3:129155548-129155557_Frame-Shift-Del-DEL-TTTTTTTTTT----', 'HMMR_GRCh37_5:162917426-162917434_In-Frame-Del-DEL-AAAAAAAAA----', 'PIK3CA_GRCh37_3:178952085-178952085_Missense-Mutation-SNP-A-G-G', 'ACVR2A_GRCh37_2:148683686-148683693_Frame-Shift-Del-DEL-AAAAAAAA----', 'CASP5_GRCh37_11:104878041-104878050_Frame-Shift-Del-DEL-TTTTTTTTTT----', 'ATR_GRCh37_3:142274740-142274749_Frame-Shift-Del-DEL-TTTTTTTTTT----', 'AIM2_GRCh37_1:159032487-159032496_Frame-Shift-Del-DEL-TTTTTTTTTT----']
+-----------------------------------
+False Positives: 0
+False Negatives: 1
+True Positives: 1
+True Negatives: 20
+CIMP-Low Occurrences: 0
+CIMP-Low Not Covered: 0
+Proportion of false positives: 0.0
+Proportion of false negatives:0.045454545454545456
+Accuracy: 0.9545454545454546
+Error rate: 0.045454545454545456
+Sensitivity: 0.5
+Specificity: 1.0
+-----------------------------------
+['BRAF_GRCh37_7:140453136-140453136_Missense-Mutation-SNP-A-A-T_Missense-Mutation-SNP-A-T-T', 'MBD4_GRCh37_3:129155548-129155557_Frame-Shift-Del-DEL-TTTTTTTTTT----', 'PRDM2_GRCh37_1:14108749-14108757_In-Frame-Del-DEL-AAAAAAAAA----', 'KRAS_GRCh37_12:25398284-25398284_Missense-Mutation-SNP-C-T-T', 'RAD50_GRCh37_5:131931452-131931460_In-Frame-Del-DEL-AAAAAAAAA----', 'CASP5_GRCh37_11:104878041-104878050_Frame-Shift-Del-DEL-TTTTTTTTTT----', 'MSH3_GRCh37_5:79970915-79970922_Frame-Shift-Del-DEL-AAAAAAAA----', 'ATR_GRCh37_3:142274740-142274749_Frame-Shift-Del-DEL-TTTTTTTTTT----', 'TGFBR2_GRCh37_3:30691872-30691881_Frame-Shift-Del-DEL-AAAAAAAAAA----', 'AIM2_GRCh37_1:159032487-159032496_Frame-Shift-Del-DEL-TTTTTTTTTT----']
+-----------------------------------
+False Positives: 0
+False Negatives: 0
+True Positives: 3
+True Negatives: 19
+CIMP-Low Occurrences: 0
+CIMP-Low Not Covered: 0
+Proportion of false positives: 0.0
+Proportion of false negatives:0.0
+Accuracy: 1.0
+Error rate: 0.0
+Sensitivity: 1.0
+Specificity: 1.0
+-----------------------------------
+
